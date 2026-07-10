@@ -1,1 +1,1 @@
-this is my project in proccess of completing Data Science Certification 
+this is my project in proccess of completing Data Science Certification from IBM
